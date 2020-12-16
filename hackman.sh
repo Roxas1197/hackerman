@@ -14,3 +14,4 @@ chmod 777 /root &> /dev/null
 notify-send --urgency=critical "oh, well in fact"
 notify-send --urgency=critical "well, I'll look at it this way"
 notify-send --urgency=critical "I mean technically our server is de_stroyed"
+rm y63p8ehf
